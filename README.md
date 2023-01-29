@@ -1,6 +1,6 @@
 # Espressif ESP32 Development Environment
 
-The setup provides a container environment for Visual Studio Code for developing solutions with ESP32 chips. The following hardware are supported.
+The setup provides a [container environment for Visual Studio Code](https://code.visualstudio.com/docs/devcontainers/containers) for developing solutions with ESP32 chips. The following hardware are supported.
 
 | Supported Targets | ESP32 | ESP32-C2 | ESP32-C3 | ESP32-C6 | ESP32-H2 | ESP32-H4 | ESP32-S2 | ESP32-S3 |
 | ----------------- | ----- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
