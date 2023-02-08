@@ -18,8 +18,7 @@ idf.py menuconfig
 
 ## References
 
-- [ESP-IDF Programming Guide](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html)
-- [Standard Toolchain Setup for Linux and macOS](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/linux-macos-setup.html)
-- [ESP32 - DEBUGGING your ESP-IDF code using JTAG [VS CODE]](https://www.youtube.com/watch?v=uq93H7T7cOQ)
-- [JTAG Debugging](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/jtag-debugging/index.html)
-- [ESP32 WROOM, SOLO and WROVER Modules](https://docs.espressif.com/projects/esp-idf/en/v3.3/hw-reference/modules-and-boards.html#wroom-solo-and-wrover-modules)
+- [Introduction to RTOS Part 2 - Getting Started with FreeRTOS | Digi-Key Electronics](https://www.youtube.com/watch?v=JIr7Xm_riRs&list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz&index=2)
+- [Passing a char* to ESP_LOGI (IDFGH-5697) #3069](https://github.com/espressif/esp-idf/issues/3069)
+- [ESP32 Arduino: Passing a variable as argument of a FreeRTOS task](https://techtutorialsx.com/2017/05/07/esp32-arduino-passing-a-variable-as-argument-of-a-freertos-task/)
+- [xTaskCreate](https://www.freertos.org/a00125.html)
